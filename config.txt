@@ -1,27 +1,27 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx4d4feff7120350ac",
+"app_id": "wx4206a81c5e5a451c",
 # 公众号appSecret
-"app_secret": "a3482bb17c63a902c62bb9996bede42e",
+"app_secret": "f9cb278c10608797c9d0d78e57f59fc5",
 # 模板消息id
-"template_id": "NO6w1V00SnixwPpQC0kcn-4xFLCx7Ili4lsUtY5WKec",
+"template_id": "kt_wdxClWIuzfwKsT_UiCG6Eu988N0kmwaJxkJou5aM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oBq5j6GTLNriESs4NWtX_wWTYBdw"],
+"user": ["oQ06d58Gbw7QlB4xILVQXIAgCneU", "oQ06d5wxRUV9kt0mk9LmTcaGyLp8"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "87f3a6c42d654f7e8cbcf6911fe0ce54",
+"weather_key": "046ff87d61d74deda033b4b61241227d",
 # 天行数据apikey
-"tian_api": "c13f30a44959f0670b68aa56930a0e2d",
+"tian_api": "b807d0522ef9ab64674e9db76d4bb4d2",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "绥化",
+"region": "西安",
 # 生日1
-"birthday1": {"name": "小宝", "birthday": "r2006-01-16"},
+"birthday1": {"name": "小胡", "birthday": "r2003-04-27"},
 # 生日2
-"birthday2": {"name": "小林", "birthday": "r2003-01-19"},
+"birthday2": {"name": "小李", "birthday": "r2003-10-06"},
 # 在一起的日子，格式同上
-"love_date": "2021-01-01",
+"love_date": "2021-06-05",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
